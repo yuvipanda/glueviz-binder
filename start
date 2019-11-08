@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mkdir -p $HOME/Desktop
+
+cp $REPO_DIR/Desktop/* $HOME/Desktop/
+
+exec "$@"
