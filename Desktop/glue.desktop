@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=ds9
-Exec=ds9
+Name=GlueViz
+Exec=glue
 # FIXME: Don't hardcode Path?
 Path=/home/jovyan/Desktop
